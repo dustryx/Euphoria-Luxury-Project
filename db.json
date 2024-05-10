@@ -1,0 +1,90 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "Cozy Cabin",
+      "location": "Nairobi",
+      "bed capacity": 2,
+      "amenities": [
+        "Wi-Fi",
+        "Fireplace",
+        "Kitchen",
+        "Parking",
+        "Movie Theatre"
+      ],
+      "rating": 4.8
+    },
+
+    {
+      "id": 2,
+      "name": "Whisperwood Cabin",
+      "location": "Kisumu",
+      "bed capacity": 1,
+      "amenities": ["Hot Tub", "Balcony", "BBQ Grill", "Hiking Trails"],
+      "rating": 4.5
+    },
+    {
+      "id": 3,
+      "name": "Cedarhaven Cabin",
+      "location": "Eldoret",
+      "bed capacity": 4,
+      "amenities": ["Game Room", "Jacuzzi", "Patio", "Pet-Friendly"],
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "name": "Tranquilidge Cabin",
+      "location": "Machakos",
+      "bed capacity": 2,
+      "amenities": ["Pool Table", "Library", "Garden", "Movie Theater"],
+      "rating": 4.7
+    },
+    {
+      "id": 5,
+      "name": "Serenewoods Cabin ",
+      "location": "Mombasa",
+      "bed capacity": 2,
+      "amenities": [
+        "Mountain View",
+        "Outdoor Fire Pit",
+        "Laundry Facilities",
+        "Private Deck"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": 6,
+      "name": "Oakshade Cabin",
+      "location": "Kericho",
+      "bed capacity": 3,
+      "amenities": [
+        "Fishing Pond",
+        "Picnic Area",
+        "Hiking trails",
+        "Bike Rental"
+      ],
+      "rating": 4.9
+    },
+    {
+      "id": 7,
+      "name": "Meadowview Cabin",
+      "location": "Nakuru",
+      "bed capacity": 2,
+      "amenities": [
+        "River Access",
+        "Massage Chair",
+        "Star Gazing Deck",
+        "Yoga Studio"
+      ],
+      "rating": 4.4
+    },
+    {
+      "id": 8,
+      "name": "Rusticrest Cabin",
+      "location": "Naivasha",
+      "bed capacity": 2,
+      "amenities": ["Fitness Center", "Sauna", "Board Games", "Gourmet Chef"],
+      "rating": 4.3
+    }
+  ]
+}
